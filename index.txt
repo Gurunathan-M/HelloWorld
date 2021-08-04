@@ -1,0 +1,6 @@
+Hi all, Welcome
+
+We have totaly 2 files
+
+1. Readme
+2. index.txt
